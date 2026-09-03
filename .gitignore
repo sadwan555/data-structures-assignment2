@@ -1,0 +1,6 @@
+.DS_Store
+*.class
+bin/
+out/
+target/
+Assignment2.zip
